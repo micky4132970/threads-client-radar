@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:14:57.164706+00:00",
+  "updated_at": "2026-11-19T22:59:55.504580+00:00",
   "source": "Threads public search page; best-effort sample only",
   "keywords": [
     "找營業員",
@@ -39,7 +39,7 @@
     },
     {
       "keyword": "手續費",
-      "error": "頁面沒有可辨識的公開貼文資料。可能需要登入、頁面結構已變更，或匿名搜尋未提供結果。"
+      "error": "Threads 回應 HTTP 429；本輪停止該搜尋，不嘗試繞過限制。"
     },
     {
       "keyword": "程式交易",
